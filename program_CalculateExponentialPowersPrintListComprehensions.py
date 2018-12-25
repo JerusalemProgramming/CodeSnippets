@@ -1,6 +1,8 @@
 ## CODE BELOW IN PYTHON
 
 ## INSTRUCTIONS:
+## TESTDOME.COM ONLINE PYTHON TEST
+## https://www.testdome.com/questions/python/palindrome/7962
 ## Write a program using for loops (in Java, JavaScript, C, or Python) that prints out:
 ## 1.) the numbers 1 through 10 on the first line,
 ## 2.) the squares of 1 through 10 on the second line (e.g. 1, 4, 9...),
